@@ -1,0 +1,10 @@
+.haut {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	gap: 300px;
+}
+a {
+	text-decoration: none;
+}
